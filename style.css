@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.traffic-light{
+    width: 100%;
+    height: 90vh;
+    border: 1px solid black;
+    margin-top: 35px;
+}
+.traffic-light-red{background-color: red;}
+.traffic-light-yellow{background-color: yellow;}
+.traffic-light-green{background-color: green;}
+.traffic-light-orange{background-color: orange;}
+.traffic-light-purple{background-color: purple;}
+.traffic-light-aqua{background-color: aqua;}
+.traffic-light-blue{background-color: blue;}
+.btn{
+    font-size: 20px;
+    margin-left: 47%;
+}
